@@ -1,7 +1,7 @@
 
 # A Deep Dive into Fairness in Machine Learning
 ### Level: Advanced
-### Presentation: [Presentation_name](workshop/fairnessadvanced.pptx)
+### Presentation: [fairness advanced](workshop/fairnessadvanced.pptx)
 
 ## Workshop description
 In the past few years there has been an increasing awareness amongst both the public and scientific community that algorithmic systems can reproduce, amplify, or even introduce unfairness in our societies. During ththise workshop, you will learn how to use and critically examine fairness-aware machine learning techniques.
